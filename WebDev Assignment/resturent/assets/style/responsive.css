@@ -1,0 +1,376 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	
+	.navbar-custom .navbar-nav {
+    	margin: 1px 20px 0;
+	}
+  
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 
+	.navbar-brand {
+    	padding-left: 260px;
+	}
+	
+	.sticky .navbar-brand {
+    	padding-left: 260px;
+	}
+	
+	.navbar-custom .navbar-nav {
+   	 	margin: 1px 67px 0;
+	}
+	
+	.sticky .navbar-custom .navbar-nav {
+   	 	margin: 1px 67px 0;
+	}
+	
+	.navbar-custom li a {
+    	padding: 12px;
+	}
+	
+	.sticky .navbar-custom li a {
+    	padding: 12px;
+	}
+	
+	.about-area {
+    	padding: 50px 0;
+	}
+	
+	.about-img img {
+    	margin-top: 10px;
+	}
+	
+	.resturent-bg {
+    	padding: 50px 0;
+	}
+	
+	.best-resturent h3 {
+    	margin-bottom: 10px;
+	}
+	
+	.best-resturent h4 {
+    	margin-bottom: 20px;
+	}
+	
+	.gallery-area {
+    	padding: 50px 0;
+	}
+	
+	.history-bg {
+		padding: 50px 0;
+	}
+	
+	.history-details h4 {
+    	margin-bottom: 20px;
+	}
+	
+	.history-details p {
+    	margin-bottom: 10px;
+	}
+	
+	.chefs-area {
+    	padding: 50px 0;
+	}
+	
+	.chefs-area h4 {
+    	margin-bottom: 20px;
+	}
+	
+	.chefs-area h5 {
+    	padding-top: 10px;
+	}
+	
+	.foodmenu-bg {
+		padding: 50px 0;
+	}
+	
+	.reservation-bg {
+		padding: 50px 0;
+	}
+	
+	.blog-area .blog-bg {
+		padding: 50px 0;
+	}
+	
+	.footer-top .footertop-bg {
+		padding: 50px 0;
+	}
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+	
+	h1 {
+		font-size: 40px;
+	}
+	
+	h4 {
+		font-size: 20px;
+	}
+	
+	h3 {
+		font-size: 25px;
+	}
+	
+	h5 {
+		font-size: 18px;
+	}
+	
+	p {
+		font-size: 14px;
+	}
+	
+	
+ 	button.navbar-toggle {
+    	float: left;
+	}
+	
+	.stickly button.nav-toogle {
+		float: left;
+	}
+	
+	.navbar-brand {
+		margin-left: 250px;
+	}
+	
+	.sticky .navbar-brand {
+		margin-left: 250px;
+	}
+	
+	.about-area {
+    	padding: 50px 0;
+	}
+	
+	.about-area h4 {
+		margin-bottom: 20px;
+	}
+	
+	.about-img img {
+    	padding-top: 10px;
+		max-width: 90%;
+	}
+	
+	.another img {
+    	right: 0%;
+	}
+	
+	.resturent-bg {
+    	padding: 50px 0;
+	}
+	
+	.best-resturent h3 {
+		margin-bottom: 10px;
+	}
+	
+	.history-bg {
+		padding: 50px 0;
+	}
+	
+	.history-details h4 {
+    	margin-bottom: 15px;
+	}
+	
+	.history-details p {
+    	margin-bottom: 15px;
+	}
+	
+	.chefs-area {
+		padding: 50px 0;
+	}
+	
+	.single-chefs img {
+		margin-top: 0px;
+	}
+	
+	.chefs-area h5 {
+    	padding-top: 10px;
+	}
+	
+	.foodmenu-bg {
+		padding: 50px 0;
+	}
+	
+	.foodmenu-area .title h4 {
+    	margin-bottom: 20px;
+	}
+	
+	.reservation-bg {
+		padding: 50px 0;
+	}
+	
+	.reservation-area h4 {
+    	margin-bottom: 20px;
+	}
+	
+	.reservation-area select {
+		margin-top: 5px;
+	}
+	
+	.blog-area .blog-bg {
+    	padding: 50px 0;
+	}
+    
+	.blog-area .blog-meta h5 {
+		margin-bottom: 10px;
+	}
+	
+	.coustomer-bg {
+		padding: 50px 0;
+	}
+	
+	.coustomer-review .title h4 {
+		margin-bottom: 20px;
+	}
+	
+	.coustomer-review p {
+		margin-bottom: 15px;
+	}
+	
+	.coustomer-review i {
+		margin-bottom: 10px;
+	}
+	
+	.footer-top .footertop-bg {
+		padding: 50px 0;
+	}
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+	h1 {
+		font-size: 40px;
+	}
+	
+	h4 {
+		font-size: 20px;
+	}
+	
+	h3 {
+		font-size: 25px;
+	}
+	
+	h5 {
+		font-size: 18px;
+	}
+	
+	p {
+		font-size: 14px;
+	}
+	
+	
+ 	button.navbar-toggle {
+    	float: left;
+	}
+	
+	.stickly button.nav-toogle {
+		float: left;
+	}
+	
+	.navbar-brand {
+		margin-left: 250px;
+	}
+	
+	.sticky .navbar-brand {
+		margin-left: 250px;
+	}
+	
+	.about-area {
+    	padding: 50px 0;
+	}
+	
+	.about-area h4 {
+		margin-bottom: 20px;
+	}
+	
+	.about-img img {
+    	padding-top: 10px;
+		max-width: 90%;
+	}
+	
+	.another img {
+    	right: 0%;
+		top: 6%;
+		max-width: 65%;
+	}
+	
+	.resturent-bg {
+    	padding: 50px 0;
+	}
+	
+	.best-resturent h3 {
+		margin-bottom: 10px;
+	}
+	
+	.history-bg {
+		padding: 50px 0;
+	}
+	
+	.history-details h4 {
+    	margin-bottom: 15px;
+	}
+	
+	.history-details p {
+    	margin-bottom: 15px;
+	}
+	
+	.chefs-area {
+		padding: 50px 0;
+	}
+	
+	.single-chefs img {
+		margin-top: 0px;
+	}
+	
+	.chefs-area h5 {
+    	padding-top: 10px;
+	}
+	
+	.foodmenu-bg {
+		padding: 50px 0;
+	}
+	
+	.foodmenu-area .title h4 {
+    	margin-bottom: 20px;
+	}
+	
+	.reservation-bg {
+		padding: 50px 0;
+	}
+	
+	.reservation-area h4 {
+    	margin-bottom: 20px;
+	}
+	
+	.reservation-area select {
+		margin-top: 5px;
+	}
+	
+	.blog-area .blog-bg {
+    	padding: 50px 0;
+	}
+    
+	.blog-area .blog-meta h5 {
+		margin-bottom: 10px;
+	}
+	
+	.coustomer-bg {
+		padding: 50px 0;
+	}
+	
+	.coustomer-review .title h4 {
+		margin-bottom: 20px;
+	}
+	
+	.coustomer-review p {
+		margin-bottom: 15px;
+	}
+	
+	.coustomer-review i {
+		margin-bottom: 10px;
+	}
+	
+	.footer-top .footertop-bg {
+		padding: 50px 0;
+	}
+}
